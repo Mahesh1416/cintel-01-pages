@@ -4,8 +4,8 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Best restaurants in Kansas City [](https://www.tripadvisor.com/Restaurants-g44535-Kansas_City_Missouri.html)
-
+Best restaurants in Kansas City[
+](https://www.tripadvisor.com/Restaurants-g44535-Kansas_City_Missouri.html)
 ##Images
 
 
