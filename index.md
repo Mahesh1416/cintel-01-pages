@@ -4,10 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Best restaurants in Kansas City[
-](https://www.tripadvisor.com/Restaurants-g44535-Kansas_City_Missouri.html)
-##Images
-
+[My favorite AI assistant](https://chat.openai.com/)
 
 ![cafe-Trio image](https://github.com/Mahesh1416/cintel-01-pages/blob/main/cafe-trio.jpg)
 
