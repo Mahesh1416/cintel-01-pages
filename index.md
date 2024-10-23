@@ -6,7 +6,8 @@ My first website using Markdown and GitHub Pages.
 
 [Restaurants in KC](https://www.eater.com/maps/best-restaurants-kansas-city)
 
-![[Food menu](cafe-trio.png)[https://github.com/Mahesh1416/cintel-01-pages/blob/main/cafe-trio.png]
+![[Food menu](cafe-trio.jpg)[https://github.com/Mahesh1416/cintel-01-pages/blob/main/cafe-trio.jpg]
+
 
 
 ## Reminders
